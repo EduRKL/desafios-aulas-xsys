@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Desafios\bin\Debug\net6.0\Desafios.exe
+C:\Users\Usuário\source\repos\Desafios\bin\Debug\net6.0\Desafios.deps.json
+C:\Users\Usuário\source\repos\Desafios\bin\Debug\net6.0\Desafios.runtimeconfig.json
+C:\Users\Usuário\source\repos\Desafios\bin\Debug\net6.0\Desafios.dll
+C:\Users\Usuário\source\repos\Desafios\bin\Debug\net6.0\Desafios.pdb
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.dll
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\refint\Desafios.dll
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.pdb
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\Desafios.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Desafios\obj\Debug\net6.0\ref\Desafios.dll
